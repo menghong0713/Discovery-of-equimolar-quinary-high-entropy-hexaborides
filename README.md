@@ -1,5 +1,5 @@
 # Discovery of equimolar quinary high-entropy hexaborides
-Search for the synthesizability of equimolar quinary high-entropy hexaborides (HEB6) illustrated in ExperimentalHEB6.xlsx and PredictedHEB6.xlsx,respectively, by runnig SearchHEB6.ipynb. The results are listed in SearchResults.xlsx.
+Search for the synthesizability of equimolar quinary high-entropy hexaborides (HEB6) illustrated in ExperimentalHEB6.xlsx and PredictedHEB6.xlsx, respectively, by runnig SearchHEB6.ipynb. The results are listed in SearchResults.xlsx.
 
 # Details
 The synthesizability of equimolar quinary HEB6 samples synthesized by high-throughput solid-state reaction and predicted by SVM.poly model are illustrated in experimentalHEB6.xlsx and PredictedHEB6.xlsx, respectively, together with their synthesizability descriptors. 
